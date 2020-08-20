@@ -1,0 +1,19 @@
+{
+  "name": "cooked-js",
+  "version": "1.0.0",
+  "description": "CLI Application to cook some boilerplate Node project.",
+  "main": "index.js",
+  "author": "Phong Tran",
+  "license": "MIT",
+  "bin": {
+    "cook": "src/inquirer.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "ejs": "^3.1.5",
+    "inquirer": "^7.3.3",
+    "ora": "^5.0.0",
+    "shelljs": "^0.8.4",
+    "yargs": "^15.4.1"
+  }
+}
