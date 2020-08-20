@@ -1,6 +1,6 @@
 {
   "name": "cooked-js",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "CLI Application to cook some boilerplate Node project.",
   "main": "index.js",
   "author": "Phong Tran",
