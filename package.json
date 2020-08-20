@@ -6,7 +6,7 @@
   "author": "Phong Tran",
   "license": "MIT",
   "bin": {
-    "cook": "src/inquirer.js"
+    "cook": "src/index.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",

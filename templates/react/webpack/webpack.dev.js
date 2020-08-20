@@ -19,7 +19,7 @@ module.exports = merge(common, {
     ],
     devServer: {
         host: "0.0.0.0",
-        port: "5238",
+        port: 3000,
         inline: true,
         hot: true,
         disableHostCheck: true,

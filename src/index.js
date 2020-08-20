@@ -73,6 +73,8 @@ function showMessage(options) {
     console.log("");
     console.log(chalk.green("Done."));
     console.log(chalk.green(`Go into the project: cd ${options.projectName}`));
+    console.log("Start developemt server at port 3000:", "\n \t", chalk.blue("yarn"), "run dev");
+    console.log("Build for production:", "\n \t", chalk.blue("yarn"), "run build");
     const message = options.config.postMessage;
     if (message) {
         console.log("");
