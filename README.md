@@ -16,6 +16,14 @@ All in one place and ready to use right on your quickie fingers.
 
 ### Usage
 
+Install the package globally:
+
+`$ npm install -g cook` 
+
+or
+
+`$ yarn global add cook`
+
 The one and only mighty command:
 
 `$ cook`
