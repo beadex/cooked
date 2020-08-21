@@ -16,6 +16,12 @@ All in one place and ready to use right on your quickie fingers.
 
 ### Usage
 
+The easy recipe:
+
+`$npx cooked`
+
+or,
+
 Install the package globally:
 
 `$ npm install -g cook` 
