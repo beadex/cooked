@@ -1,8 +1,10 @@
 ## Cooked
 
+[![https://nodei.co/npm/cooked.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/cooked.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cooked)
+
 Greetings, chefs.
 
-For all these years,  I myself was very intuitive to use those cookers like create-react-app or vue-cli. They are good cookers, but really redundant and cumbersome at some point.
+For all these years,  I myself was very intuitive to use those cookers like create-react-app or vue-cli. They are good cookers, but really redundant and cumbersome at some points.
 
 When comes to Webpack, I myself, once again, was excited about the powers I got on controlling my project, my build, and my package. Configure Webpack and build process is a fun thing to do, too. That is the point I got my own branded cookers. Sharp, solid, and very handy.
 
@@ -14,11 +16,13 @@ Cooked, a small and easy-to-use CLI cooker to cook some Node project spaghetti t
 
 All in one place and ready to use right on your quickie fingers.
 
+[Github repository](https://github.com/bodetaima/cooked/)
+
 ### Usage
 
 The easy recipe:
 
-`$npx cooked`
+`$ npx cooked`
 
 or,
 
